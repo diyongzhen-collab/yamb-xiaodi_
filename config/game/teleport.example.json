@@ -1,0 +1,11 @@
+{
+  "databaseFile": "./data/game.db",
+  "tpacceptCommand": "/tpaccept",
+  "tpahereCommand": "/tpahere",
+  "phomeCommand": "/phome",
+  "waypointDelayMs": 3000,
+  "waypoints": [
+    { "id": "home", "alias": "home" },
+    { "id": "farm", "alias": "farm" }
+  ]
+}

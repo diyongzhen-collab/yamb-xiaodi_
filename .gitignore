@@ -1,0 +1,18 @@
+# 运行时与私密内容，禁止提交
+node_modules/
+dist/
+logs/
+data/
+mc-tokens/
+.env
+.env.*
+
+# 允许提交的环境变量模板（如果以后添加）
+!.env.example
+
+# 编辑器/系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
